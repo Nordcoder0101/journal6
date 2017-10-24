@@ -1,0 +1,13 @@
+#
+Day 6 Journal
+
+I am finally comfortable git hub and git bash.  I can use the taught features of these applications with a fair amount 
+of ease.  This is  ahuge relief for me and allowing me to focus on the coding side of things.
+
+I feel like I am in an interesting place in regards to my learning process.  Usually the topic we are on in a given day
+is very difficult to implement the day I learn it.  A typical assignment is me spending about 3-4 hours in reference 
+material trying to learn the concept, and 3-4 hours of making code that barely works.  I am able to get little pieces at
+a time to lock in, and this is very rewarding.
+
+It's hard to tell if I am behind or not.  I know I am learning and growing, but I wish I was getting things faster.
+I will keep pumping the pump as long as I can see myself learning and growing, as painful as it might be.
